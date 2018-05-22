@@ -1,0 +1,4 @@
+D3, D4 - I2C (SCL-D4(2), SDA-D3(0))
+D5, D6, D7, D8 - SPI (CS-D8(15), SCK-D5(14), MOSI-D7(13), MISO-D6(12))
+D1, D2 - wiegand (D0-D1(4), D1-D2(5)).
+TX, RX - Nextion
